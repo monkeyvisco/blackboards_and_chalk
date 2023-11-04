@@ -1,0 +1,2 @@
+# ai
+MSU AI BootCamp
